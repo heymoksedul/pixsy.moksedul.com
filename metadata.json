@@ -1,0 +1,6 @@
+{
+  "name": "pixsy",
+  "description": "Secure, fast, and local image file conversion in your browser. Convert WEBP, PNG, JPEG, and hybrid outputs instantly without uploading any files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
